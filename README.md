@@ -2,6 +2,8 @@
 
 This repo contains the R and CSV files for my M-SABR MLB Prospect Model. The article I wrote detailing the model and its results is linked here:
 
+https://msabr.com/2024/02/21/m-sabrs-prospect-ranking-model/
+
 Contents of the repo:
 
 combined.R - This is the main file you need to run the model. It runs the model and compiles the final list. None of the other files require edits.
